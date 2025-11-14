@@ -1,4 +1,4 @@
-Hello everyone. My name is Lavanya. I am a second-year B.Tech CSE(AIML) student at GLA University.
+Hello everyone 👋<br> My name is Lavanya 💛<br> I am a second-year B.Tech CSE(AIML) student at GLA University 👩🏻‍💻
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/lavanya-404b4b2a2) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:laavanya269@gmail.com) 
